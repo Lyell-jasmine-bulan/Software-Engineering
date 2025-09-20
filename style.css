@@ -4,12 +4,17 @@ header{
     border-radius: 50px;
     border: azure solid 10px;
     padding-left: 20px;
+     border: darkgrey solid 40px;
 }
 
 body{
     margin: 0%;
-}
 
+<<<<<<< HEAD
+=======
+}
+ 
+>>>>>>> 87b9c53c3284fee8858fc435edab34932274542c
  .ob{
         font-size: larger;
     }
@@ -18,23 +23,50 @@ body{
     }
     
 .pic{
-    margin-left: 200px;
+    margin-left: 250px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
  /*header*/
 
+<<<<<<< HEAD
 
 /*main*/
    main{
     background-color: darkslategray;
     margin: 60px;
+=======
+ /*main*/
+main{
+    background-color: rgb(160, 236, 236);
+>>>>>>> 87b9c53c3284fee8858fc435edab34932274542c
     text-align: justify;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman';
     font-weight: 300;
     border-width: 20px;
+<<<<<<< HEAD
     border-radius: 40px;
     border: darkgrey solid 10px;
     padding: 10px;
 }
 
  
+=======
+    border: darkgrey solid 40px;
+    padding: 200px;
+
+    
+}
+/*main*/
+
+/*footer*/
+footer{
+padding-top: 20px;
+background-color: rgb(90, 147, 174);
+padding: 20px;
+padding-left: 30px;
+ border: darkgrey solid 40px;
+
+}
+>>>>>>> 87b9c53c3284fee8858fc435edab34932274542c
