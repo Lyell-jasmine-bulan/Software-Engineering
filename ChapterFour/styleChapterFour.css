@@ -1,0 +1,81 @@
+:root{
+    --primary-color: #000000;
+    --secondary-color:#8dc081c2;
+    --third-color:#739Ec9;
+    --background-color:#FFEFFF;
+    --text-color:#FFFFFF;
+}
+/*header*/
+header{
+    background-color: var(--background-color);
+    border-radius: 10px;
+    border: azure solid 8px;
+    padding-left: 20px;
+     border: var(--primary-color) 3px;
+     margin: 0px;
+     margin-bottom: 4px;
+}
+
+@font-face {
+    font-family: 'myfont';
+    src: url(ChapterFour/college.ttf);
+}
+
+html, body{
+    margin: 0%;
+    font-family: 'myfont', Arial, Helvetica, sans-serif;
+
+}
+
+.con{
+    background-color:var(--third-color);
+}
+
+.top{
+    padding-left: 200px;
+    background-color: rgb(43, 155, 186);
+    margin: 0px;
+    margin-top: 10px;
+}
+ 
+ .ob{
+        font-size: larger;
+    }
+.min{
+        margin-left: 20px;
+    }
+    
+.pic{
+    padding-left: 150px;
+    margin-top: 0px;
+    margin: 0px;
+}
+
+ /*header*/
+
+ /*main*/
+main{
+    background-color:var(--third-color );
+    text-align: justify;
+    font-family: 'myfont', Arial, Helvetica, sans-serif;
+    font-weight: 300px;
+    border-width: 20px;
+    border: var(--primary-color) 3px;
+    padding: 40px;
+    border-radius: 10px;
+
+    
+}
+/*main*/
+
+/*footer*/
+footer{
+padding-top: 4px;
+background-color: var(--secondary-color);
+padding: 40px;
+padding-left: 30px;
+ border: var(--primary-color) 3px;
+ border-radius: 10px;
+ margin-bottom: 10px;
+
+}
